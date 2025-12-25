@@ -63,6 +63,7 @@ DAX Measures Used
 
 
 
+<img width="1920" height="1028" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/8881c88a-5533-4a09-9a03-56173bc8edb7" />
 
 
 
