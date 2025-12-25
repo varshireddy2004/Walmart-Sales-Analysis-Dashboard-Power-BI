@@ -74,9 +74,7 @@ How to Use
 2. Open the `.pbix` file in Power BI Desktop  
 3. Use slicers to filter and explore the data interactively  
 
- Author
-Dhathrivarshithareddy Chamala
 
 
-## ⭐ If you like this project
-Give it a ⭐ on GitHub and feel free to fork or suggest improvements!
+
+
